@@ -6,7 +6,7 @@
 - Fun fact: I like working on and driving old American Cars from the 1950s - 1970s.
 
 * Resume: 
-https://github.com/larry-eng/larry-eng/docs/larry-eng-Resume.pdf
+https://github.com/larry-eng/larry-eng/blob/main/docs/larry-eng-Resume.pdf
 
 <!---
 larry-eng/larry-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
