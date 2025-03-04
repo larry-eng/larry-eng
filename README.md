@@ -1,7 +1,6 @@
 - Hi, I’m @larry-eng
 - I’m interested in Embedded Software Engineering.
 - I’m currently learning embedded cyber security.
-- I’m collaborating with the nonprofit OpenAKM and the for-profit AKM Cyber Corp to develop AKM.
 - How to reach me: larry@akmcyber.com
 
 * Resume: 
