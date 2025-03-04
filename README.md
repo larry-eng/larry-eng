@@ -1,6 +1,6 @@
 - Hi, I’m @larry-eng
-- I’m interested in Embedded Software Engineering.
-- I’m currently learning embedded cyber security.
+- I’ve been doing Embedded Software Engineering for 30+ years and still learning.
+- I’m currently studying embedded cyber security.
 - How to reach me: elrays@sbcglobal.net
 
 * Resume: 
