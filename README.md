@@ -1,5 +1,5 @@
 - My GitHub handle is @larry-eng. My real world name is Larry Butler.
-- I’ve been doing Embedded Software Engineering for 30+ years and still learning.
+- I’ve been doing Embedded Software Engineering for 40+ years and still learning.
 - I’m currently studying and coding STM32 Nucleo Board projects.
 - How to reach me: elrays@sbcglobal.net
 - I'm fairly new to GitHub and enjoy learning it also.
